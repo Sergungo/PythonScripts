@@ -19,7 +19,7 @@ def get_all_links(html):
                                                            class_='currency-name')
     links = []
     for td in tds:
-        a = td.find('a', class_='currency-name-container').get('href')
+        a = td.find('a', class_='currency-name-container').get('href').strip()
         link = 'https://coinmarketcap.com' + a
         links.append(link)
 
