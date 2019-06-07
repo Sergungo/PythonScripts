@@ -21,6 +21,7 @@ def get_all_links(html):
     for td in tds:
         a = td.find('a', class_='currency-name-container').get('href').strip()
         link = 'https://coinmarketcap.com' + a
+        # print(link)
         links.append(link)
 
     return links
@@ -43,13 +44,12 @@ def get_page_data(html):
     return data
 
 
-def write_csv(data):
-    with open('coinmarketcap.csv', 'a') as file:
-        writer = csv.writer(file)
-
-        writer.writerow((data['name'], data['price']))
-
-        print(data['name'], 'parsed')
+def write_csv(i, data):
+    with open('coinmarketcap.csv', 'a') as f:
+        writer = csv.writer(f)
+        writer.writerow((data['name'],
+                         data['price']))
+        print(i, data['name'], 'parsed')
 
 
 def main():
@@ -59,10 +59,10 @@ def main():
 
     all_links = get_all_links(get_html(url))
 
-    for link in enumerate(all_links):
+    for i, link in enumerate(all_links):
         html = get_html(link)
         data = get_page_data(html)
-        write_csv(data)
+        write_csv(i, data)
 
     end = datetime.now()
 
