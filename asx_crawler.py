@@ -31,7 +31,7 @@ def get_all_rows(html):
 
 
 def write_csv(data):
-    with open('asxcodes.csv', 'a') as file:
+    with open('H://asxcodes.xls', 'a') as file:
         writer = csv.writer(file)
 
         writer.writerow(('ASX', 'Date', 'Headline'))
@@ -39,7 +39,7 @@ def write_csv(data):
         for dat in data:
             if dat['Headline'] in ("Daily share buy-back notice - Appendix 3E", "Appendix 3e", "Daily share buy-back notice", "nnouncement of  buy-back"):
                 writer.writerow((dat['ASX'], dat['Date'], dat['Headline']))
-                print(data['ASX'], 'parsed')
+                print(dat['ASX'], 'parsed')
 
 
 def main():
