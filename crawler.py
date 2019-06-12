@@ -5,15 +5,15 @@ def parse(html):#собираем данные со страницы
     soup = BeautifulSoup(html)
   
     teams = []
-  
+    
     for row in soup.select('tbody > tr'):
-        cols = row.select('td')
-  
-        teams.append({
-            'Место': cols[0].text,
-            'Команда': [name.text for name in row.select('a[class=name]')],
-            'Матчи': cols[2].text
-        })
+            cols = row.select('td')
+    
+            teams.append({
+                'Место': cols[0].text,
+                'Команда': [name.text for name in row.select('a[class=name]')],
+                'Матчи': cols[2].text
+            })
   
     return teams
   
