@@ -40,11 +40,6 @@ def main():
 
     }
 
-    sess = Session()
-
-    # sess = sess.get(url)
-    # sess = sess.post(login_url, data=data, headers=headers)
-
     r1 = session.post(login_url, data=data, headers=headers)
     r2 = session.get(main_url)
 

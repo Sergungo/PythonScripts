@@ -3,12 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="5318fa92-49ae-4194-9cec-0e5a4b5bd8d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login_to_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/login_to_kharkovforum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login_to_kharkovforum.py" beforeDir="false" afterPath="$PROJECT_DIR$/login_to_kharkovforum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Favourite libs">
+      <favorite_root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/sessions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -146,24 +152,48 @@
       <option name="presentableId" value="Default" />
       <updated>1568293607620</updated>
     </task>
+    <task id="LOCAL-00001" summary="login process modified, work correct">
+      <created>1582024481429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582024481429</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="login process modified, work correct" />
+    <option name="LAST_COMMIT_MESSAGE" value="login process modified, work correct" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1514" height="297" key="GridCell.Tab.0.bottom" timestamp="1582024410668">
+    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1582024480467">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1514" height="297" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1582024410668" />
-    <state width="1514" height="297" key="GridCell.Tab.0.center" timestamp="1582024410668">
+    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.826@0.0.1536.826" timestamp="1582024480467" />
+    <state width="1514" height="264" key="GridCell.Tab.0.bottom" timestamp="1582025420063">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1514" height="297" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1582024410668" />
-    <state width="1514" height="297" key="GridCell.Tab.0.left" timestamp="1582024410668">
+    <state width="1514" height="264" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1582025420063" />
+    <state width="1514" height="264" key="GridCell.Tab.0.center" timestamp="1582025420063">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1514" height="297" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1582024410668" />
-    <state width="1514" height="297" key="GridCell.Tab.0.right" timestamp="1582024410668">
+    <state width="1514" height="264" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1582025420063" />
+    <state width="1514" height="264" key="GridCell.Tab.0.left" timestamp="1582025420063">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1514" height="297" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1582024410668" />
+    <state width="1514" height="264" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1582025420063" />
+    <state width="1514" height="264" key="GridCell.Tab.0.right" timestamp="1582025420063">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1514" height="264" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1582025420063" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582024483199">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.826@0.0.1536.826" timestamp="1582024483199" />
+    <state x="431" y="147" key="search.everywhere.popup" timestamp="1582024613071">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="431" y="147" key="search.everywhere.popup/0.0.1536.826@0.0.1536.826" timestamp="1582024613071" />
   </component>
 </project>
