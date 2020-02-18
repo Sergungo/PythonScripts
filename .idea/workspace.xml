@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5318fa92-49ae-4194-9cec-0e5a4b5bd8d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_file.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/login_to_kharkovforum.py" beforeDir="false" afterPath="$PROJECT_DIR$/login_to_kharkovforum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +46,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.login_to_kharkovforum">
+  <component name="RunManager" selected="Python.login_linkedin">
     <configuration name="Test_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonScripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,6 +81,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/asx_crawler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login_linkedin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonScripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login_linkedin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,6 +154,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.login_linkedin" />
         <item itemvalue="Python.login_to_kharkovforum" />
         <item itemvalue="Python.Test_file" />
         <item itemvalue="Python.asx_crawler" />
@@ -159,38 +180,46 @@
       <option name="project" value="LOCAL" />
       <updated>1582024481429</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="code removed">
+      <created>1582025435919</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582025435919</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="login process modified, work correct" />
-    <option name="LAST_COMMIT_MESSAGE" value="login process modified, work correct" />
+    <MESSAGE value="code removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="code removed" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1582024480467">
+    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1582025435244">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.826@0.0.1536.826" timestamp="1582024480467" />
-    <state width="1514" height="264" key="GridCell.Tab.0.bottom" timestamp="1582025420063">
+    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.826@0.0.1536.826" timestamp="1582025435244" />
+    <state width="1514" height="264" key="GridCell.Tab.0.bottom" timestamp="1582025489213">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1514" height="264" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1582025420063" />
-    <state width="1514" height="264" key="GridCell.Tab.0.center" timestamp="1582025420063">
+    <state width="1514" height="264" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1582025489213" />
+    <state width="1514" height="264" key="GridCell.Tab.0.center" timestamp="1582025489212">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1514" height="264" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1582025420063" />
-    <state width="1514" height="264" key="GridCell.Tab.0.left" timestamp="1582025420063">
+    <state width="1514" height="264" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1582025489212" />
+    <state width="1514" height="264" key="GridCell.Tab.0.left" timestamp="1582025489212">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1514" height="264" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1582025420063" />
-    <state width="1514" height="264" key="GridCell.Tab.0.right" timestamp="1582025420063">
+    <state width="1514" height="264" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1582025489212" />
+    <state width="1514" height="264" key="GridCell.Tab.0.right" timestamp="1582025489212">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1514" height="264" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1582025420063" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582024483199">
+    <state width="1514" height="264" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1582025489212" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582025437394">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.826@0.0.1536.826" timestamp="1582024483199" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.826@0.0.1536.826" timestamp="1582025437394" />
     <state x="431" y="147" key="search.everywhere.popup" timestamp="1582024613071">
       <screen x="0" y="0" width="1536" height="826" />
     </state>

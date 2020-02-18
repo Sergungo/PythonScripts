@@ -1,10 +1,5 @@
 import hashlib
-from encodings.utf_8 import encode
 import requests
-
-# from bs4 import BeautifulSoup
-from requests import Request, Session
-
 
 def main():
     login_url = 'https://www.kharkovforum.com/login.php?do=login'
