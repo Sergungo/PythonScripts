@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5318fa92-49ae-4194-9cec-0e5a4b5bd8d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PythonScripts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonScripts.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asx_crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/asx_crawler.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Favourite libs">
-      <favorite_root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/sessions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-      <favorite_root url="file://$USER_HOME$/.PyCharmCE2019.3/system/python_stubs/174544716/builtins.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-    </favorites_list>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,18 +32,29 @@
     </option>
   </component>
   <component name="ProjectId" id="1XycY74GXhou8au125Hb4oIB5FR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.login_linkedin_selenium">
-    <configuration name="Test_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sergey\PycharmProjects\PythonScripts" />
+      <recent name="C:\Users\Sergey\PycharmProjects\PythonScripts\venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="namefake_tt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonScripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,70 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_file.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="login_linkedin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonScripts" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login_linkedin.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="login_linkedin_selenium" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonScripts" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login_linkedin_selenium.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="login_to_kharkovforum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonScripts" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login_to_kharkovforum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/namefake_tt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,13 +96,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_namefake_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonScripts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_namefake_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.login_linkedin_selenium" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.login_linkedin" />
-        <item itemvalue="Python.login_to_kharkovforum" />
-        <item itemvalue="Python.Test_file" />
+        <item itemvalue="Python.namefake_tt" />
+        <item itemvalue="Python.test_namefake_functions" />
       </list>
     </recent_temporary>
   </component>
@@ -203,33 +166,58 @@
     <option name="LAST_COMMIT_MESSAGE" value="code removed" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585140675647">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585140675647" />
+    <state x="640" y="261" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586432764729">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="261" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586432764729" />
     <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1582025658558">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.826@0.0.1536.826" timestamp="1582025658558" />
-    <state width="1514" height="217" key="GridCell.Tab.0.bottom" timestamp="1582125334980">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state x="739" y="299" key="FileChooserDialogImpl" timestamp="1585140999030">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="299" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1585140999030" />
+    <state width="1899" height="363" key="GridCell.Tab.0.bottom" timestamp="1586529016081">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1514" height="217" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1582125334980" />
-    <state width="1514" height="217" key="GridCell.Tab.0.center" timestamp="1582125334980">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state width="1899" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586529016081" />
+    <state width="1899" height="363" key="GridCell.Tab.0.center" timestamp="1586529016081">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1514" height="217" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1582125334980" />
-    <state width="1514" height="217" key="GridCell.Tab.0.left" timestamp="1582125334980">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state width="1899" height="363" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586529016081" />
+    <state width="1899" height="363" key="GridCell.Tab.0.left" timestamp="1586529016081">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1514" height="217" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1582125334980" />
-    <state width="1514" height="217" key="GridCell.Tab.0.right" timestamp="1582125334980">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state width="1899" height="363" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586529016081" />
+    <state width="1899" height="363" key="GridCell.Tab.0.right" timestamp="1586529016081">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1514" height="217" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1582125334980" />
+    <state width="1899" height="363" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586529016081" />
+    <state x="692" y="182" key="SettingsEditor" timestamp="1586432957189">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="692" y="182" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1586432957189" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1582025660803">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.826@0.0.1536.826" timestamp="1582025660803" />
-    <state x="431" y="147" key="search.everywhere.popup" timestamp="1582024613071">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state x="661" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1585140698650">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="661" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585140698650" />
+    <state x="539" y="187" width="670" height="676" key="search.everywhere.popup" timestamp="1586524161567">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="431" y="147" key="search.everywhere.popup/0.0.1536.826@0.0.1536.826" timestamp="1582024613071" />
+    <state x="539" y="187" width="670" height="676" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1586524161567" />
   </component>
 </project>

@@ -31,7 +31,7 @@ def get_all_rows(html):
 
 
 def write_csv(data):
-    with open('H://asxcodes.xls', 'a') as file:
+    with open('G://asxcodes.xls', 'a') as file:
         writer = csv.writer(file)
 
         writer.writerow(('ASX', 'Date', 'Headline'))
